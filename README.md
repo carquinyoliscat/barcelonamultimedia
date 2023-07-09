@@ -1,4 +1,4 @@
-# barcelonamultimedia
+# Barcelona Multimèdia
 Arxiu dels softwares de Barcelona Multimèdia.
 
 Què és? <descripció del projecte>
@@ -8,32 +8,33 @@ Què és? <descripció del projecte>
 Per què és important recuperar-ho?
 <descripció importància digitalitzar i pel català>
 <eslogan i ideal "l'alternativa interactiva">
-
-# Llistat de jocs - recol·lecció primera
+---
+## Llistat de jocs - recol·lecció primera
 
 Aquest són els jocs que se sap que es van publicar en català
 
-## L'Oncle Albert
+### L'Oncle Albert
 [x] L'Àlbum secret de l'oncle Albert
 [x] El viatge favulós de l'oncle Albert
 [x] L'illa misteriosa de l'oncle Albert
 [x] El temple perdut de l'oncle Albert
 [] L'estatueta maleïda de l'oncle Albert
 
-## 1
+### 1
 [] El bosc trapella
 
-## Mira, mira,
+### Mira, mira,
 [] Mira, mira, la casa encantada
 [x] Mira, mira, la recerca del tresort
 
-## En Nil
+### En Nil
 [x] En Nil i l'illa dels fruits vermells
 [] En Nil i les pedres brillants (nom incorrecte)
 
-## 2
+### 2
 [x] Físicus
 
+---
 
 ## Col·labora!
 
