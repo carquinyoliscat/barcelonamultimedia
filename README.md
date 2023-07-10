@@ -23,7 +23,6 @@ Aquest són els jocs que se sap que es van publicar en català
 - [ ] El gran pet de la màquina de l'oncle Albert
 - [ ] El tresort de la màquina de l'oncle Albert
 
-
 - ### Doble - Aventura
 - [ ] El bosc trapella
 
