@@ -1,4 +1,4 @@
-# Barcelona Multimèdia
+# [Barcelona Multimèdia](https://barcelonamultimedia.carquinyolis.cat)
 Arxiu dels softwares de Barcelona Multimèdia.
 
 Què és? <descripció del projecte>
@@ -19,20 +19,27 @@ Aquest són els jocs que se sap que es van publicar en català
 - [x] L'illa misteriosa de l'oncle Albert
 - [x] El temple perdut de l'oncle Albert
 - [ ] L'estatueta maleïda de l'oncle Albert
+- [ ] La màquina dels jocs de l'oncle Albert
+- [ ] El gran pet de la màquina de l'oncle Albert
+- [ ] El tresort de la màquina de l'oncle Albert
 
-- ### 1
+- ### Doble - Aventura
 - [ ] El bosc trapella
 
-- ### Mira, mira,
-- [ ] Mira, mira, la casa encantada
-- [ ] Mira, mira, la recerca del tresort
+- ### Mira, mira
+- [ ] Mira, mira la casa encantada
+- [ ] Mira, mira la recerca del tresort
+- [ ] Mira, mira la capsa de sorpreses
 
 - ### En Nil
-- [x] En Nil i l'illa dels fruits vermells
-- [ ] En Nil i les pedres brillants (nom incorrecte)
+- [x] Nil i l'illa dels fruits vermells
+- [ ] Nil i les pedres de foc
+- [ ] Nil i l'estel verd
+- [ ] Nil i l'estrany animal
 
-- ### 2
+- ### Ciència i Tecnologia (nom no oficial)
 - [x] Físicus
+- [ ] Bioscòpia
 
 ---
 
